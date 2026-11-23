@@ -4,7 +4,3 @@
 
 #### Стек технологий
 ![My Skills](https://skillicons.dev/icons?i=python,pytorch,git,docker,linux,c#,c++)
-
-#### Как связаться
-- Telegram: [@kakakepi](https://t.me/kakakepi)
-- Email: viklybi1@gmail.com
